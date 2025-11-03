@@ -1,0 +1,14 @@
+[
+  {
+    "id": "laliga",
+    "name": "LaLiga",
+    "season": "25/26",
+    "teams": [
+      {
+        "id": "real-madrid",
+        "name": "Real Madrid",
+        "country": "ES"
+      }
+    ]
+  }
+]
